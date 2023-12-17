@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkrisht Buttolia</h1>
-<h3 align="center">I believe in learnways keen to learn new technologiing new things from each and every experience that comes my way.</h3>
+<h3 align="center">I believe in learning and am keen to acquire new technologies and learn from each and every experience that comes my way.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkrisht128&label=Profile%20views&color=0e75b6&style=flat" alt="utkrisht128" /> </p>
 
