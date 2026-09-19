@@ -68,37 +68,14 @@
 
 ## 📌 Featured Work
 
-<p align="center">
-  <a href="https://github.com/utkrisht128/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkrisht128&repo=portfolio&theme=default&hide_border=true" alt="portfolio" />
-  </a>
-  <a href="https://github.com/utkrisht128/brahmos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkrisht128&repo=brahmos&theme=default&hide_border=true" alt="brahmos" />
-  </a>
-  <a href="https://github.com/utkrisht128/MERN_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkrisht128&repo=MERN_Project&theme=default&hide_border=true" alt="MERN_Project" />
-  </a>
-  <a href="https://github.com/utkrisht128/ChatApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkrisht128&repo=ChatApp&theme=default&hide_border=true" alt="ChatApp" />
-  </a>
-</p>
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[ChatApp](https://github.com/utkrisht128/ChatApp)** | Real-time chat, structured as an npm-workspace monorepo with a separate server and web app, typechecking and Playwright e2e tests. | TypeScript · Node · Playwright |
+| **[Brahmos](https://github.com/utkrisht128/brahmos)** | Notes, lectures and official NSUT notices for Netaji Subhas University of Technology students, with a scraper that mirrors notices. | React · TypeScript · Vite · Fastify · SQLite |
+| **[New_Portfolio](https://github.com/utkrisht128/New_Portfolio)** | My portfolio site — hand-written CSS3 with design tokens, no utility framework, animated with Framer Motion. | React · TypeScript · Vite · Framer Motion |
+| **[employee-api](https://github.com/utkrisht128/employee-api)** ([live](https://employee-api-beryl-five.vercel.app)) | A RESTful CRUD API for employee records. | Node · Express · MongoDB |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=utkrisht128&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkrisht128&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=utkrisht128&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkrisht128&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
+📂 More in my [repositories](https://github.com/utkrisht128?tab=repositories).
 
 ---
 
